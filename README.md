@@ -23,4 +23,6 @@
 
 (1) Tulis artikel seperti biasa
 
-(2) Masukkan skrip dengan cara ini: <p class="footnote" sumber="https://www.alamatweb.com/post1/" judul="Postingan Pertama">Isi paragraf. Isi paragraf. Isi paragraf. Isi paragraf. Isi paragraf. Isi paragraf.</p>
+(2) Masukkan skrip dengan cara ini:
+
+```<p>Isi paragraf.<ref sumber="https://www.alamatweb.com/post1/" judul="Postingan Pertama"></ref> Isi paragraf Isi paragraf Isi paragraf Isi paragraf Isi paragraf.</p>```
