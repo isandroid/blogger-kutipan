@@ -19,6 +19,7 @@
 (8) lalu simpan -- (tekan tombol disket di bagian kanan atas) -- sampai ada notifikasi "Update Berhasil..."
 
 
+
 (B) ===== Cara pemakaian: =====
 
 (1) Tulis artikel seperti biasa
