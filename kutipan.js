@@ -14,7 +14,6 @@ function createFootnote(footnote, url, judul){
     $("#footnotes").append(sumber);
 }
 $(document).ready(function() {
-    $(".blog-posts article .post-outer").append("<a name=\"footnotes\"><ol id=\"footnotes\"></ol></a>");
     footnote = 1;
     $("ref").each(function() {
         createFootnote(footnote, $(this).attr("sumber"), $(this).attr("judul"));
