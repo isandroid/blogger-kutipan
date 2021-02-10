@@ -13,11 +13,11 @@
 
 * Tulis artikel seperti biasa
 * Masukkan skrip dengan cara pertama (jika ada sumber URL dan judul):
-`<p>Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf.<ref sumber="https://www.alamatweb.com/post1/" judul="Postingan Pertama"></ref> Isi paragraf Isi paragraf Isi paragraf Isi paragraf Isi paragraf.</p>`
+<p>`<p>Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf.<ref sumber="https://www.alamatweb.com/post1/" judul="Postingan Pertama"></ref> Isi paragraf Isi paragraf Isi paragraf Isi paragraf Isi paragraf.</p>`</p>
 * Masukkan skrip dengan cara kedua (jika ada sumber URL saja):
-`<p>Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf.<ref sumber="https://www.alamatweb.com/post1/"></ref> Isi paragraf Isi paragraf Isi paragraf Isi paragraf Isi paragraf.</p>`
+<p>`<p>Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf.<ref sumber="https://www.alamatweb.com/post1/"></ref> Isi paragraf Isi paragraf Isi paragraf Isi paragraf Isi paragraf.</p>`</p>
 * Masukkan skrip dengan cara ketiga (jika hanya referensi offline):
-`<p>Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf.<ref judul="Buku 1 halan 2"></ref> Isi paragraf Isi paragraf Isi paragraf Isi paragraf Isi paragraf.</p>`
+<p>`<p>Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf. Isi tulisan paragraf.<ref judul="Buku 1 halan 2"></ref> Isi paragraf Isi paragraf Isi paragraf Isi paragraf Isi paragraf.</p>`</p>
 * Untuk memunculkan isi kutipan, buat ini di akhir artikel
-`<h2>Catatan kaki:</h2>`
-`<ol id="footnotes"></ol>`
+<p>`<h2>Catatan kaki:</h2>`</p>
+<p>`<ol id="footnotes"></ol>`</p>
