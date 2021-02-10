@@ -9,7 +9,7 @@
 * paste sebelum tag "</head>"
 * lalu simpan -- (tekan tombol disket di bagian kanan atas) -- sampai ada notifikasi "Update Berhasil..."
 
-=== Cara pemakaian: ===
+## Cara pemakaian:
 
 * Tulis artikel seperti biasa
 * Masukkan skrip dengan cara pertama (jika ada sumber URL dan judul):
